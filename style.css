@@ -80,6 +80,7 @@ h2 {
     justify-content: center;
     gap: 48px;
     padding: 24px 0px;
+    flex-wrap: wrap;
 }
 
 .info {
